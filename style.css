@@ -28,3 +28,18 @@ h3{
 	display: inline-block;
 	margin: 30px;
 }
+
+nav{
+	text-align: center;
+}
+
+#navbar{
+	padding-left: 0px;
+
+}
+
+.container{
+	margin: 0 auto;
+	width: 100%;
+	max-width: 900px;
+}
